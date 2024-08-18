@@ -1,0 +1,26 @@
+{
+  "name": "hvigor_plugin_template",
+  "version": "1.0.0",
+  "description": "hvigor plugin template",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhtczengjing/hvigor_plugin_template.git"
+  },
+  "keywords": [
+    "hvigor",
+    "plugin"
+  ],
+  "author": "zengjing <hhtczengjin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhtczengjing/hvigor_plugin_template/issues"
+  },
+  "homepage": "https://github.com/hhtczengjing/hvigor_plugin_template#readme",
+  "devDependencies": {
+    "@ohos/hvigor": "5.2.2"
+  }
+}
