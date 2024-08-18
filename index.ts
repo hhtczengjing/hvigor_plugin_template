@@ -1,1 +1,1 @@
-export { customPlugin } from './src/main';
+export { customPlugin } from './src/plugin';

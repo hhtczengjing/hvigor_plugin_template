@@ -21,6 +21,12 @@
   },
   "homepage": "https://github.com/hhtczengjing/hvigor_plugin_template#readme",
   "devDependencies": {
-    "@ohos/hvigor": "5.2.2"
+    "@ohos/hvigor": "5.2.2",
+    "@types/fs-extra": "^11.0.4"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "handlebars": "^4.7.8",
+    "typescript": "^5.5.4"
   }
 }
